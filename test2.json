@@ -1,0 +1,219 @@
+[
+  {
+    "dsSch": [
+      {
+        "UPP_AIS_TP_CD": "06",
+        "SPL_INF_TP_CD": "063",
+        "PAN_ID": "2015122300008240",
+        "CCR_CNNT_SYS_DS_CD": "03"
+      }
+    ]
+  },
+  {
+    "dsCtrtPlcNm": [
+      {
+        "TSK_ST_DTTM": "운영기간시작일시",
+        "SIL_OFC_TLNO": "전화번호",
+        "TSK_ED_DTTM": "운영기간종료일시",
+        "SIL_OFC_GUD_FCTS": "접수처안내사항",
+        "CTRT_PLC_ADR": "접수처소재지주소",
+        "CTRT_PLC_DTL_ADR": "접수처소재지상세주소"
+      }
+    ],
+    "dsSplScdl": [
+      {
+        "SBSC_ACP_CLSG_DT": "2021.03.12",
+        "PPR_SBM_OPE_ANC_DT": "2021.03.18",
+        "CTRT_ST_DT": "2021.06.23",
+        "SBD_LGO_NM": "",
+        "PPR_ACP_ST_DT": "2021.03.22",
+        "SBSC_ACP_ST_DT": "2021.03.09",
+        "PPR_ACP_CLSG_DT": "2021.03.24",
+        "PZWR_ANC_DT": "2021.06.08",
+        "CTRT_ED_DT": "2021.06.25"
+      }
+    ],
+    "dsSbdAhfl": [
+      {
+        "LCC_NT_NM": "고양지축 A-4BL 행복주택",
+        "CMN_AHFL_NM": "지역조감도.JPG",
+        "AHFL_URL": "https://apply.lh.or.kr/lhCmcImageViewAdapter.lh?fileid=40316205",
+        "LS_SPL_INF_UPL_FL_DS_CD_NM": "지역조감도"
+      },
+      {
+        "LCC_NT_NM": "고양지축 A-4BL 행복주택",
+        "CMN_AHFL_NM": "지구조감도.JPG",
+        "AHFL_URL": "https://apply.lh.or.kr/lhCmcImageViewAdapter.lh?fileid=40316206",
+        "LS_SPL_INF_UPL_FL_DS_CD_NM": "지구조감도"
+      },
+      {
+        "LCC_NT_NM": "고양지축 A-4BL 행복주택",
+        "CMN_AHFL_NM": "교통망도.JPG",
+        "AHFL_URL": "https://apply.lh.or.kr/lhCmcImageViewAdapter.lh?fileid=40316208",
+        "LS_SPL_INF_UPL_FL_DS_CD_NM": "위치도"
+      },
+      {
+        "LCC_NT_NM": "고양지축 A-4BL 행복주택",
+        "CMN_AHFL_NM": "토지이용계획도.JPG",
+        "AHFL_URL": "https://apply.lh.or.kr/lhCmcImageViewAdapter.lh?fileid=40316207",
+        "LS_SPL_INF_UPL_FL_DS_CD_NM": "토지이용계획도"
+      },
+      {
+        "LCC_NT_NM": "고양지축 A-4BL 행복주택",
+        "CMN_AHFL_NM": "단지조감도.JPG",
+        "AHFL_URL": "https://apply.lh.or.kr/lhCmcImageViewAdapter.lh?fileid=40316209",
+        "LS_SPL_INF_UPL_FL_DS_CD_NM": "단지조감도"
+      },
+      {
+        "LCC_NT_NM": "고양지축 A-4BL 행복주택",
+        "CMN_AHFL_NM": "단지배치도.JPG",
+        "AHFL_URL": "https://apply.lh.or.kr/lhCmcImageViewAdapter.lh?fileid=40316210",
+        "LS_SPL_INF_UPL_FL_DS_CD_NM": "단지배치도"
+      },
+      {
+        "LCC_NT_NM": "고양지축 A-4BL 행복주택",
+        "CMN_AHFL_NM": "동호판.JPG",
+        "AHFL_URL": "https://apply.lh.or.kr/lhCmcImageViewAdapter.lh?fileid=40316211",
+        "LS_SPL_INF_UPL_FL_DS_CD_NM": "동호배치도"
+      }
+    ],
+    "dsSplScdlNm": [
+      {
+        "SBSC_ACP_CLSG_DT": "접수기간종료일",
+        "PPR_SBM_OPE_ANC_DT": "서류제출대상자발표일",
+        "CTRT_ST_DT": "계약기간시작일",
+        "SBD_LGO_NM": "단지명",
+        "PPR_ACP_ST_DT": "서류접수기간시작일",
+        "SBSC_ACP_ST_DT": "접수기간시작일",
+        "PPR_ACP_CLSG_DT": "서류접수기간종료일",
+        "PZWR_ANC_DT": "당첨자발표일",
+        "CTRT_ED_DT": "계약기간종료일"
+      }
+    ],
+    "dsSbd": [
+      {
+        "DDO_AR": "16.7~36.76",
+        "LGDN_ADR": "경기도 고양시 덕양구 지축동",
+        "LGDN_DTL_ADR": "606-5",
+        "LCC_NT_NM": "고양지축 A-4BL 행복주택",
+        "MVIN_XPC_YM": "2021.06",
+        "HTN_FMLA_DESC": "지역난방",
+        "HSH_CNT": "473",
+        "SPL_INF_GUD_FCTS": "* 모집호수는 추후 계약자의 해약, 계약포기 등에 따라 변동될 수 있으며, 예비자순번을 받으신 경우 실제 입주시까지 상당기간이 소요될 수 있습니다."
+      }
+    ],
+    "dsSbdAhflNm": [
+      {
+        "LCC_NT_NM": "단지명",
+        "CMN_AHFL_NM": "첨부파일명",
+        "AHFL_URL": "다운로드",
+        "LS_SPL_INF_UPL_FL_DS_CD_NM": "파일구분명"
+      }
+    ],
+    "dsEtcInfoNm": [
+      {
+        "ETC_CTS": "기타사항",
+        "CRC_RSN": "정정/취소사유"
+      }
+    ],
+    "dsCtrtPlc": [
+      {
+        "TSK_ST_DTTM": "2021.03.12",
+        "SIL_OFC_TLNO": "16001004",
+        "TSK_ED_DTTM": "2021.03.12",
+        "SIL_OFC_GUD_FCTS": "\u203B LH고양권주거복지지사는 현장접수처로만 사용되며, 문의는 LH콜센터(1600-1004)로 하시기 바랍니다.\n상기 행복주택의 청약접수는 인터넷(https://apply.lh.or.kr)또는 모바일(App명칭 : LH청약센터)로 받습니다. \n65세 이상 고령자 및 장애인 등 인터넷 접수가 어려우신 분에 한하여 현장접수 받습니다.\n\u203B 현장접수일시 : '21.3.12.(금) 10:00~16:00 (12:00~13:00 점심시간 제외)\n    현장접수장소 : LH고양권주거복지지사 5층 계약실",
+        "CTRT_PLC_ADR": "경기도 고양시 일산서구 강성로 247(대화동)",
+        "CTRT_PLC_DTL_ADR": "LH고양권주거복지지사 5층 계약실"
+      }
+    ],
+    "dsSbdNm": [
+      {
+        "DDO_AR": "전용면적",
+        "LGDN_ADR": "단지주소",
+        "LGDN_DTL_ADR": "단지상세주소",
+        "LCC_NT_NM": "단지명",
+        "MVIN_XPC_YM": "입주예정월",
+        "HTN_FMLA_DESC": "난방방식",
+        "HSH_CNT": "총세대수",
+        "SPL_INF_GUD_FCTS": "안내사항"
+      }
+    ],
+    "dsAhflInfoNm": [
+      {
+        "CMN_AHFL_NM": "첨부파일명",
+        "AHFL_URL": "다운로드",
+        "SL_PAN_AHFL_DS_CD_NM": "파일구분명"
+      }
+    ],
+    "dsEtcInfo": [
+      {
+        "ETC_CTS": "모집대상은 대학생, 청년, 신혼부부, 고령자, 주거급여수급자입니다.\n본 모집공고의 공급계층별 잔여세대 및 예비자 모집 호수를 반드시 확인하여 주시기 바랍니다.\n본 모집공고는 추가입주자 모집 공고로 기존계약자의 해약, 계약포기 등에 따라 계약시점의 모집호수는 변경될 수 있습니다.\n기타 자세한 내용은 행복주택 입주자모집공고문을 확인하여 주시기 바랍니다.",
+        "CRC_RSN": ""
+      }
+    ],
+    "resHeader": [
+      {
+        "SS_CODE": "Y",
+        "RS_DTTM": "20210224091824"
+      }
+    ],
+    "dsAhflInfo": [
+      {
+        "CMN_AHFL_NM": "[샘플]행복주택추가제출서류견본.hwp",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43214830",
+        "SL_PAN_AHFL_DS_CD_NM": "기타 첨부파일"
+      },
+      {
+        "CMN_AHFL_NM": "[양식1]개인정보수집이용및제3자제공동의서.hwp",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43214831",
+        "SL_PAN_AHFL_DS_CD_NM": "기타 첨부파일"
+      },
+      {
+        "CMN_AHFL_NM": "[양식2]금융정보등(금융,신용,보험정보)제공동의서.hwp",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43214832",
+        "SL_PAN_AHFL_DS_CD_NM": "기타 첨부파일"
+      },
+      {
+        "CMN_AHFL_NM": "[양식3]자산보유사실확인서.hwp",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43214833",
+        "SL_PAN_AHFL_DS_CD_NM": "기타 첨부파일"
+      },
+      {
+        "CMN_AHFL_NM": "[양식4]예비입주자중복선정불가사항확인서.hwp",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43214834",
+        "SL_PAN_AHFL_DS_CD_NM": "기타 첨부파일"
+      },
+      {
+        "CMN_AHFL_NM": "[양식5]위임장_대리인_신청시.hwp",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43214835",
+        "SL_PAN_AHFL_DS_CD_NM": "기타 첨부파일"
+      },
+      {
+        "CMN_AHFL_NM": "[양식6]각서(대학생계층복학예정자).hwp",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43214836",
+        "SL_PAN_AHFL_DS_CD_NM": "기타 첨부파일"
+      },
+      {
+        "CMN_AHFL_NM": "[양식7]예비신혼부부신청,세대구성확인서.hwp",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43214837",
+        "SL_PAN_AHFL_DS_CD_NM": "기타 첨부파일"
+      },
+      {
+        "CMN_AHFL_NM": "★팸플릿_고양지축A-4블록행복주택(추가모집).pdf",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43235676",
+        "SL_PAN_AHFL_DS_CD_NM": "공고문(PDF)"
+      },
+      {
+        "CMN_AHFL_NM": "고양지축A-4블록행복주택추가입주자모집공고문.hwp",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43251803",
+        "SL_PAN_AHFL_DS_CD_NM": "공고문(hwp)"
+      },
+      {
+        "CMN_AHFL_NM": "고양지축A-4블록행복주택추가입주자모집공고문.pdf",
+        "AHFL_URL": "https://apply.lh.or.kr/fileDownAdapter.lh?fileid=43251802",
+        "SL_PAN_AHFL_DS_CD_NM": "공고문(PDF)"
+      }
+    ]
+  }
+]
+
